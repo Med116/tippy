@@ -1,0 +1,27 @@
+{
+  "uuid": "8bc7cab5-1435-4bb5-be84-77d5c616b90a",
+  "shortName": "tippy",
+  "longName": "tippy",
+  "companyName": "SpecificApps",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [ {
+        "type": "png",
+        "name": "UP_DOWN",
+        "file": "images/tab_arrows_icon.png"
+      },
+      {
+          "type": "png",
+          "name": "TIPPY_ICON",
+          "file": "images/tippy_icon.png",
+          "menuIcon":true
+        }]
+  }
+}
